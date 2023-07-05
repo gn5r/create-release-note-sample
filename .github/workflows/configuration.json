@@ -9,5 +9,5 @@
       "labels": ["breaking change"]
     }
   ],
-  "pr_template": "- ${{TITLE}}(#${{NUMBER}})  - ${{BODY}}"
+  "pr_template": "- ${{TITLE}} (#${{NUMBER}})"
 }
