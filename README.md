@@ -1,1 +1,0 @@
-# create-release-note-sample
